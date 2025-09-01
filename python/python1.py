@@ -9,6 +9,8 @@ a,b = b,a
 
 print(f"The Value of A: {a}\nThe value of B: {b}")
 
+#or
+
 print(f"Enter value for X(Integer)")
 x = int(input())
 print(f"Enter value for Y(Integer)")
