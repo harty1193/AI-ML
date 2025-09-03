@@ -1,6 +1,6 @@
 # 9. Write a program to count vowels and consonants in a string.
 
-string = input(f"Enter a string: ")
+string = input("Enter a string: ")
 v_count = 0
 c_count = 0
 

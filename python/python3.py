@@ -1,6 +1,6 @@
 # 3. Write a script to check if a given number is even or odd.
 
-print(f"Enter a Number:")
+print("Enter a Number:")
 num = int(input())
 
 if num%2:

@@ -1,6 +1,6 @@
 # 12. Write a program to check if a number is prime or not.
 
-number = int(input(f"Enter a number to check prime or not: "))
+number = int(input("Enter a number to check prime or not: "))
 if number < 1:
     print("Not a Prime")
 else:

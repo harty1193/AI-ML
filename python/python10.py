@@ -3,7 +3,7 @@
 # Program to print Fibonacci sequence up to 20
 
 prv, nxt = 0, 1
-n = int(input(f"Enter a value for n: "))
+n = int(input("Enter a value for n: "))
 while prv <= n:
     print(prv, end='  ')
     prv,nxt = nxt, prv + nxt
@@ -12,7 +12,7 @@ while prv <= n:
 
 prv = 0   
 nxt = 1
-n = int(input(f"\nEnter another value for n: "))
+n = int(input("\nEnter another value for n: "))
 
 while prv <= n:
     print(prv, end='  ')
